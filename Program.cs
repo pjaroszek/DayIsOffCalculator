@@ -1,4 +1,4 @@
-﻿namespace DayIsOffCalculator
+﻿namespace Jaroszek.ProofOfCOncept.DayIsOffCalculator
 {
     using System;
     class Program
