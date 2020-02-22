@@ -1,0 +1,11 @@
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\bin\Debug\netcoreapp3.1\DayIsOffCalculator.exe
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\bin\Debug\netcoreapp3.1\DayIsOffCalculator.deps.json
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\bin\Debug\netcoreapp3.1\DayIsOffCalculator.runtimeconfig.json
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\bin\Debug\netcoreapp3.1\DayIsOffCalculator.runtimeconfig.dev.json
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\bin\Debug\netcoreapp3.1\DayIsOffCalculator.dll
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\bin\Debug\netcoreapp3.1\DayIsOffCalculator.pdb
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\obj\Debug\netcoreapp3.1\DayIsOffCalculator.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\obj\Debug\netcoreapp3.1\DayIsOffCalculator.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\obj\Debug\netcoreapp3.1\DayIsOffCalculator.AssemblyInfo.cs
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\obj\Debug\netcoreapp3.1\DayIsOffCalculator.dll
+C:\Users\pawel\source\repos\DayIsOffCalculator\DayIsOffCalculator\obj\Debug\netcoreapp3.1\DayIsOffCalculator.pdb
